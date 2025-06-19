@@ -99,6 +99,10 @@
   right: -24px;
 }
 
+.menu-item.artist._2._3 {
+  top: 25px;
+}
+
 .menu-item.artist._3 {
   width: 225px;
   position: relative;
