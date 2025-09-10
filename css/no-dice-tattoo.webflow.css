@@ -1074,6 +1074,7 @@
   }
 
   .sign.katie {
+    filter: drop-shadow(2px 4px #000);
     width: 225px;
   }
 
