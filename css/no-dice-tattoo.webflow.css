@@ -105,6 +105,7 @@
 
 .menu-item.artist._3 {
   width: 225px;
+  display: block;
   position: relative;
   top: 11px;
   left: 1px;
@@ -520,10 +521,10 @@
 }
 
 .text-block-6 {
+  width: 400px;
   color: var(--black);
   text-align: center;
   border-bottom: 1px solid #000;
-  width: 400px;
   padding-bottom: 20px;
   font-family: Crimson Pro, sans-serif;
   font-size: 50px;
@@ -533,11 +534,11 @@
 }
 
 .text-block-7 {
+  width: 500px;
   color: var(--black);
   text-align: center;
   letter-spacing: 1px;
   text-transform: uppercase;
-  width: 500px;
   margin-left: auto;
   margin-right: auto;
   font-family: Crimson Pro, sans-serif;
@@ -623,9 +624,9 @@
 }
 
 .text-block-10 {
+  width: 80%;
   color: var(--black);
   text-align: center;
-  width: 80%;
   margin-top: 10px;
   font-family: Crimson Pro, sans-serif;
   font-size: 20px;
@@ -812,8 +813,8 @@
 }
 
 .image-14 {
-  transform-style: preserve-3d;
   width: 50px;
+  transform-style: preserve-3d;
   transform: rotateX(0)rotateY(180deg)rotateZ(0);
 }
 
